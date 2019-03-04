@@ -2,7 +2,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "justadudewhohacks",
+  "author": "pCodeLab",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
